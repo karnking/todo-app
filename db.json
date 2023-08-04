@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "Learn React-Redux",
+      "details": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.",
+      "status": true,
+      "time": 1691142813287,
+      "id": 1
+    },
+    {
+      "title": "Learn React",
+      "details": "React is a frontend library to make sites with the components.",
+      "status": false,
+      "time": 1691142977765,
+      "id": 2
+    },
+    {
+      "title": "Learn HTML",
+      "details": "HTML is markup language and is used to form basic static websites",
+      "status": false,
+      "time": 1691143492126,
+      "id": 3
+    },
+    {
+      "title": "Practise DSA",
+      "details": "Data structure and algorithm is very helpuful skill in any interview practise it!",
+      "status": false,
+      "time": 1691151452253,
+      "id": 4
+    },
+    {
+      "title": "Finish the portfolio",
+      "details": "I have to finish the portfolio still I am doing this shit. I need to finish it asap.",
+      "status": false,
+      "time": 1691162792454,
+      "id": 5
+    }
+  ]
+}

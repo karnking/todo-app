@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    position: fixed;
+    width: 100%;
+}
+.navbar *{
+    border: 2px solid rgb(0, 149, 255);
+    padding: 0.7em 5em;
+    margin-bottom: 0.15em;
+    margin-top: 0.15em;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: black;
+    font-family: cursive;
+    transition: 0.8s;
+}

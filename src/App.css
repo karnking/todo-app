@@ -1,0 +1,11 @@
+a.active{
+  background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+  color: white;
+}
+.App{
+    background: url('https://media.gettyimages.com/id/1209886272/photo/todo.jpg?s=612x612&w=0&k=20&c=xSv28-PTf0zKPmsX-NMIGrgfUBHDBpUMGzMseMxeb_Y=');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
