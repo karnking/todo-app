@@ -9,7 +9,7 @@ const AddTodo = () => {
   const uploadTodo = async() =>{
     setLoading(true)
     try{
-      await axios.post(`http://localhost:${process.env.REACT_APP_BASE_SERVER_PORT}/todos`,{
+      await axios.post(`${process.env.REACT_APP_BASE_SERVER_URL}/todos`,{
         ...formData,
         status:false,
         time: Date.now()
